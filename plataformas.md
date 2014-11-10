@@ -10,3 +10,12 @@ http://www.turnkeylinux.org/phplist
 http://www.turnkeylinux.org/phreedom
 http://www.turnkeylinux.org/zurmo
 http://www.turnkeylinux.org/prestashop
+http://www.turnkeylinux.org/magento
+http://www.turnkeylinux.org/lxc
+http://www.turnkeylinux.org/projectpier
+http://www.turnkeylinux.org/openvpn
+http://www.turnkeylinux.org/statusnet
+http://www.turnkeylinux.org/sahana-eden
+http://www.turnkeylinux.org/ushahidi
+http://www.turnkeylinux.org/etherpad
+http://www.turnkeylinux.org/appflower
